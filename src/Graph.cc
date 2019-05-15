@@ -28,6 +28,7 @@
 #include "Edge.h"
 #include "Graph.h"
 #include "Selector.h"
+#include <climits>
 #include "Vertex.h"
 #include "common.h"
 #include "msg.h"

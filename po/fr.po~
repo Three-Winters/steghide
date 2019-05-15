@@ -11,7 +11,6 @@ msgstr ""
 "PO-Revision-Date: 2003-09-29 14:09+0200\n"
 "Last-Translator: Stefan Hetzl <shetzl@chello.at>\n"
 "Language-Team: Deutsch\n"
-"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=ISO-8859-1\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -92,8 +91,8 @@ msgstr "l'argument \"%s\" doit être suivi du nom du fichier-couverture."
 msgid ""
 "the argument \"%s\" can only be used with the \"%s\" and \"%s\" commands."
 msgstr ""
-"le paramètre \"%s\" ne peut être utilisé qu'avec les commandes \"%s\" and "
-"\"%s\"."
+"le paramètre \"%s\" ne peut être utilisé qu'avec les commandes \"%s\" and \"%"
+"s\"."
 
 #: src/Arguments.cc:306
 #, c-format
@@ -344,8 +343,8 @@ msgstr ""
 #, c-format
 msgid "an error occured while writing the audio data to the file \"%s\"."
 msgstr ""
-"une erreur a eu lieu lors de l'écriture des données audio vers le fichier "
-"\"%s\"."
+"une erreur a eu lieu lors de l'écriture des données audio vers le fichier \"%"
+"s\"."
 
 #: src/AudioData.h:140 src/WavFile.cc:306
 msgid "an error occured while writing the audio data to standard output."
@@ -1186,8 +1185,8 @@ msgstr "terminal inconnu. Vous devez appuyer sur <Entrée> après la réponse."
 #, fuzzy
 #~ msgid "the \"%s\" argument must be followed by the plain file name."
 #~ msgstr ""
-#~ "l'argument \"%s\" doit être suivi du nom du fichier de données. tapez "
-#~ "\"%s --help\" pour l'aide."
+#~ "l'argument \"%s\" doit être suivi du nom du fichier de données. tapez \"%"
+#~ "s --help\" pour l'aide."
 
 #, fuzzy
 #~ msgid "the stego file name argument can be used only once."
@@ -1440,8 +1439,8 @@ msgstr "terminal inconnu. Vous devez appuyer sur <Entrée> après la réponse."
 
 #~ msgid "the interval length for the cnsti method must be smaller than %d."
 #~ msgstr ""
-#~ "la longueur d'intervalle pour la méthode cnsti doit être plus petite que "
-#~ "%d."
+#~ "la longueur d'intervalle pour la méthode cnsti doit être plus petite que %"
+#~ "d."
 
 #~ msgid ""
 #~ "the mask saved in the stego header is not the default (1). This is no "
